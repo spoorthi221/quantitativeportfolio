@@ -2,7 +2,7 @@
 
 # 📊 Smart Portfolio Optimizer
 
-A modern portfolio optimization tool that combines stocks, crypto, and commodities using the power of Python. Because why guess when you can let math do the work?
+Welcome to the portfolio optimizer that thinks it's smarter than your financial advisor! Because why settle for boring index funds when you can pretend you're Warren Buffett?
 
 ## ✨ Features
 
