@@ -21,7 +21,7 @@ pip install yfinance pandas pypfopt matplotlib seaborn
 
 2. Run the analysis:
 ```python
-python portfolio_optimizer.py
+python Quantitative_Portfolio_Management.ipynb
 ```
 
 ## 📈 What It Does
